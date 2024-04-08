@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ccccee&height=300&section=header&text=Ha-Bu's%20GitHub&fontSize=90&fontColor=ffffff)
 
-<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; height: 100px;">
+<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; height: 100px;">
   <div>
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wncks2546)](https://solved.ac/wncks2546)
