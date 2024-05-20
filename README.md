@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### juchan 🙋‍♂️
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=ccccee&height=300&section=header&text=Ha-Bu's%20GitHub&fontSize=90&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=ccccee&height=300&section=header&text=Sang-Bu's%20GitHub&fontSize=90&fontColor=ffffff)
 
 <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; height: 100px;">
   <div>
