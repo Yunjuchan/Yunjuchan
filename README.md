@@ -56,7 +56,6 @@ Here are some ideas to get you started:
 <br>
 <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
 <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white"/>
 <img src="https://img.shields.io/badge/hibernate-59666C?style=flat-square&logo=hibernate">
 <img src="https://img.shields.io/badge/jira-0052CC?style=flat-square&logo=jira">
