@@ -112,5 +112,6 @@ Here are some ideas to get you started:
 
 <br>
 <br>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=ccccee&height=200&section=footer)
+<div align="center">
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=ccccee&height=200&section=footer)
+</div>
