@@ -21,19 +21,20 @@ Here are some ideas to get you started:
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ccccee&height=300&section=header&text=Jugul's%20GitHub&fontSize=90&fontColor=ffffff)
 
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; height: 100px;">
-  <div>
-
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wncks2546)](https://solved.ac/wncks2546)
-  
-  </div>
-  <div>
-    
-  [![juchan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yunjuchan)](https://github.com/Yunjuchan/github-readme-stats)
-  
-  </div>
-
-</div>
+<table>
+  <tr>
+    <td>
+      <a href="https://solved.ac/wncks2546">
+        <img src="http://mazassumnida.wtf/api/generate_badge?boj=wncks2546" alt="Solved.ac Profile"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Yunjuchan/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=Yunjuchan" alt="juchan's GitHub stats"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 <!-- <br> -->
