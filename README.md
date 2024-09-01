@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### juchan 🙋‍♂️
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=ccccee&height=300&section=header&text=Sang-Bu's%20GitHub&fontSize=90&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=ccccee&height=300&section=header&text=Jugul's%20GitHub&fontSize=90&fontColor=ffffff)
 
 <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; height: 100px;">
   <div>
@@ -55,7 +55,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
 <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white"/>
 <img src="https://img.shields.io/badge/hibernate-59666C?style=flat-square&logo=hibernate">
 <img src="https://img.shields.io/badge/jira-0052CC?style=flat-square&logo=jira">
