@@ -21,6 +21,7 @@ Here are some ideas to get you started:
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ccccee&height=300&section=header&text=Jugul's%20GitHub&fontSize=90&fontColor=ffffff)
 
+
 <table>
   <tr>
     <td>
